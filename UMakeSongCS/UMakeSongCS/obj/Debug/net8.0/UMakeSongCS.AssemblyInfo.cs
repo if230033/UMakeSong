@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UMakeSongCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69049fdf4c1c6f5c12657d046578e23ba8fc0a67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a01c001030f2d16161ab7fe21f51f97bce5bef")]
 [assembly: System.Reflection.AssemblyProductAttribute("UMakeSongCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UMakeSongCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
